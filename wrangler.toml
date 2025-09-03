@@ -2,7 +2,7 @@ name = "redirect"
 compatibility_date = "2023-01-20"
 main = "workers-site/index.js"
 
-account_id = "ACCOUNT_ID_HERE"
+account_id = "760b904f6f45db834805898d2d33f89e"
 workers_dev = true
 
 kv_namespaces = [
